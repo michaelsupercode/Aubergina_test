@@ -1,0 +1,1 @@
+.breadcrumb{--breadcrumb-item-display:none;list-style-type:none;margin:var(--breadcrumb-margin,0 0 var(--space-2));padding:0}.breadcrumb__headline{display:inline}.breadcrumb__item{display:var(--breadcrumb-item-display)}.breadcrumb__item:first-child,.breadcrumb__item:last-child{display:inline}.breadcrumb__item:not(:last-child):after{content:"\003E";margin:0 .3em}

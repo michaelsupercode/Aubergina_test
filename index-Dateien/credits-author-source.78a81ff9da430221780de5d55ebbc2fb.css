@@ -1,0 +1,1 @@
+.credits-author-source__item:not(:first-child):before{content:"/ "}

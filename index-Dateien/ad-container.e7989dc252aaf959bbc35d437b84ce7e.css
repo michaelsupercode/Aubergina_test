@@ -1,0 +1,1 @@
+.ad-container{position:relative}.ad-container--top{flex:0 0 auto;margin:var(--ad-container-top-margin-top,var(--space-3)) 0 0;width:100%}@media (min-width:641px){.ad-container--skyscraper{align-self:flex-start;flex:0;margin:var(--ad-container-top-margin-top,var(--space-3)) 0 0;position:sticky;top:0;width:var(--skyscraper-width)}}
